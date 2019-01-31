@@ -11,3 +11,9 @@ Description: What the package does (one paragraph).
 License: What license it uses
 Encoding: UTF-8
 LazyData: true
+Imports: 
+    pkg.remote
+Remotes:
+    url::https://github.com/ijlyttle/pkg.remote/archive/master.zip
+URL: https://github.com/ijlyttle/pkg.use.url
+BugReports: https://github.com/ijlyttle/pkg.use.url/issues
